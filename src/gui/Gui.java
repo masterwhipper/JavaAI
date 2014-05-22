@@ -52,5 +52,6 @@ public class Gui  {
         
         //End stoof
         frame.setVisible(true);
+        //test
     }
 }
